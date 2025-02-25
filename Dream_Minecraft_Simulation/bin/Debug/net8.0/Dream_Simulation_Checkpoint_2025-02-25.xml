@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <log timestamp="2025-02-25 14:17:17">
+    <message>Trial 3000000: 13 pearls, 150 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:17:25">
+    <message>Trial 4000000: 13 pearls, 165 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:17:34">
+    <message>Trial 5000000: 14 pearls, 155 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:27:47">
+    <message>Trial 7308068: 31 pearls, 181 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:28:06">
+    <message>Trial 10000000: 9 pearls, 167 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:29:18">
+    <message>Trial 20000000: 11 pearls, 160 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:29:20">
+    <message>Trial 20201942: 34 pearls, 155 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:29:20">
+    <message>Trial 20234861: 8 pearls, 205 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:30:33">
+    <message>Trial 30000000: 15 pearls, 153 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:30:52">
+    <message>Trial 32499567: 35 pearls, 159 rods.</message>
+  </log>
+  <log timestamp="2025-02-25 14:32:49">
+    <message>Theoretical:            (12.378, 152.5)
+Goal:                   (42, 211)
+Average:                (12.389, 152.500)
+Best Complete Run:      (31, 181, 7,308,068)
+Most Ender Pearls Ever: (35, 159, 32,499,567)
+Most Blaze Rods Ever:   (8, 205, 20,234,861)
+Trial Number:           (40,000,000)
+</message>
+  </log>
+</logs>
