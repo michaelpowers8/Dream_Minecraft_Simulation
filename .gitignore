@@ -1,3 +1,6 @@
+!Dream_Simulation_Checkpoint_*.xml
+!Dream_Simulation_Checkpoint.json
+
 # Explicitly exclude the file pattern first
 *.xml
 *.json
