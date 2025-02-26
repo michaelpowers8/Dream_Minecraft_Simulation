@@ -1,14 +1,14 @@
 {
-  "total_ender_pearls": 495540730.0,
-  "number_of_trials": 40000000.0,
-  "total_blaze_rods": 6100005135.0,
-  "max_ender_pearls": 31.0,
-  "max_blaze_rods": 181.0,
-  "best_trial_number": 7308068.0,
-  "most_pearls_ever": 35.0,
-  "most_pearls_ever_rods": 159.0,
-  "best_pearl_trial": 32499567.0,
-  "most_rods_ever_pearls": 8.0,
-  "most_rods_ever": 205.0,
-  "best_rod_trial": 20234861.0
+  "total_ender_pearls": 19324715204.0,
+  "number_of_trials": 1560000000.0,
+  "total_blaze_rods": 237899834712.0,
+  "max_ender_pearls": 34.0,
+  "max_blaze_rods": 184.0,
+  "best_trial_number": 1285350225.0,
+  "most_pearls_ever": 38.0,
+  "most_pearls_ever_rods": 153.0,
+  "best_pearl_trial": 1121538617.0,
+  "most_rods_ever_pearls": 12.0,
+  "most_rods_ever": 206.0,
+  "best_rod_trial": 1542960639.0
 }
