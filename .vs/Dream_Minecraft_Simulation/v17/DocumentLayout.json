@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\michael\\Documents\\C#\\Dreams_Minecraft_Simulation\\",
+  "WorkspaceRootPath": "C:\\Code\\C#\\Dream_Minecraft_Simulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2BF47F3-5990-4A81-AE47-E6E3C164DEE8}|Dream_Minecraft_Simulation\\Dream_Minecraft_Simulation.csproj|c:\\users\\michael\\documents\\c#\\dreams_minecraft_simulation\\dream_minecraft_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2BF47F3-5990-4A81-AE47-E6E3C164DEE8}|Dream_Minecraft_Simulation\\Dream_Minecraft_Simulation.csproj|c:\\code\\c#\\dream_minecraft_simulation\\dream_minecraft_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2BF47F3-5990-4A81-AE47-E6E3C164DEE8}|Dream_Minecraft_Simulation\\Dream_Minecraft_Simulation.csproj|solutionrelative:dream_minecraft_simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\michael\\Documents\\C#\\Dreams_Minecraft_Simulation\\Dream_Minecraft_Simulation\\Program.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Dream_Minecraft_Simulation\\Dream_Minecraft_Simulation\\Program.cs",
               "RelativeDocumentMoniker": "Dream_Minecraft_Simulation\\Program.cs",
-              "ToolTip": "C:\\Users\\michael\\Documents\\C#\\Dreams_Minecraft_Simulation\\Dream_Minecraft_Simulation\\Program.cs",
+              "ToolTip": "C:\\Code\\C#\\Dream_Minecraft_Simulation\\Dream_Minecraft_Simulation\\Program.cs",
               "RelativeToolTip": "Dream_Minecraft_Simulation\\Program.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAgwF8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAAApwLgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T20:07:22.506Z",
+              "WhenOpened": "2025-04-10T02:28:53.205Z",
               "EditorCaption": ""
             }
           ]

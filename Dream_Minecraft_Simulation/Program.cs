@@ -88,7 +88,7 @@ class DreamSimulation
                     logUpdate = true;
                 }
 
-                if (numberOfTrials % 10000000 == 0)
+                if (numberOfTrials % 10_000_000 == 0)
                 {
                     logUpdate = true;
                 }
@@ -96,9 +96,9 @@ class DreamSimulation
                 if (logUpdate)
                 {
                     log_update_message = "";
-                    log_update_message += $"Theoretical:            (12.378, 152.5)\n";
+                    log_update_message += $"Theoretical:            (12.387706855792227, 152.5)\n";
                     log_update_message += $"Goal:                   (42, 211)\n";
-                    log_update_message += $"Average:                ({(double)totalEnderPearls / numberOfTrials:F3}, {(double)totalBlazeRods / numberOfTrials:F3})\n";
+                    log_update_message += $"Average:                ({(double)totalEnderPearls / numberOfTrials:F15}, {(double)totalBlazeRods / numberOfTrials:F15})\n";
                     log_update_message += $"Best Complete Run:      ({maxEnderPearls}, {maxBlazeRods}, {bestTrialNumber:N0})\n";
                     log_update_message += $"Most Ender Pearls Ever: ({mostPearlsEver}, {mostPearlsEverRods}, {bestPearlTrial:N0})\n";
                     log_update_message += $"Most Blaze Rods Ever:   ({mostRodsEverPearls}, {mostRodsEver}, {bestRodTrial:N0})\n";

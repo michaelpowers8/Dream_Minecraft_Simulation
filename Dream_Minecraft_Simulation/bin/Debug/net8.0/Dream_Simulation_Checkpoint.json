@@ -1,14 +1,14 @@
 {
-  "total_ender_pearls": 1200987784847.0,
-  "number_of_trials": 96950000000.0,
-  "total_blaze_rods": 14784880194370.0,
+  "total_ender_pearls": 1608791246167.0,
+  "number_of_trials": 129870000000.0,
+  "total_blaze_rods": 19805180480390.0,
   "max_ender_pearls": 35.0,
   "max_blaze_rods": 185.0,
   "best_trial_number": 8602978489.0,
   "most_pearls_ever": 42.0,
   "most_pearls_ever_rods": 160.0,
   "best_pearl_trial": 35514483818.0,
-  "most_rods_ever_pearls": 18.0,
-  "most_rods_ever": 211.0,
-  "best_rod_trial": 5287169820.0
+  "most_rods_ever_pearls": 13.0,
+  "most_rods_ever": 213.0,
+  "best_rod_trial": 98834595237.0
 }
