@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Dream_Minecraft_Simulation\\Program.cs",
               "ToolTip": "C:\\Code\\C#\\Dream_Minecraft_Simulation\\Dream_Minecraft_Simulation\\Program.cs",
               "RelativeToolTip": "Dream_Minecraft_Simulation\\Program.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAA1wB4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T02:28:53.205Z",
               "EditorCaption": ""
