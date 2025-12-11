@@ -1,2893 +1,2603 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <logs>
-  <log timestamp="2025-10-02 08:06:27">
+  <log timestamp="2025-11-14 08:01:00">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702990733455, 152.500016237275901)
+Average:                (12.387705050112153, 152.500009626062422)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,820,000,000)
+Trial Number:           (655,350,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:08:26">
+  <log timestamp="2025-11-14 08:03:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703004578439, 152.500016212729435)
+Average:                (12.387705066390991, 152.500009618901061)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,830,000,000)
+Trial Number:           (655,360,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:10:22">
+  <log timestamp="2025-11-14 08:05:04">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703007317571, 152.500016125623574)
+Average:                (12.387705071202527, 152.500009614643631)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,840,000,000)
+Trial Number:           (655,370,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:12:19">
+  <log timestamp="2025-11-14 08:07:06">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703035711237, 152.500016154141235)
+Average:                (12.387705076206171, 152.500009653750510)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,850,000,000)
+Trial Number:           (655,380,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:14:18">
+  <log timestamp="2025-11-14 08:09:08">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702994608990, 152.500016113504444)
+Average:                (12.387705067597919, 152.500009715049060)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,860,000,000)
+Trial Number:           (655,390,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:16:12">
+  <log timestamp="2025-11-14 08:11:11">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702980973147, 152.500016081388821)
+Average:                (12.387705079543791, 152.500009690363129)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,870,000,000)
+Trial Number:           (655,400,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:18:09">
+  <log timestamp="2025-11-14 08:13:12">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702959586550, 152.500016063477943)
+Average:                (12.387705085131444, 152.500009671629982)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,880,000,000)
+Trial Number:           (655,410,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:20:09">
+  <log timestamp="2025-11-14 08:15:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702985479411, 152.500016057360511)
+Average:                (12.387705082159531, 152.500009662997769)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,890,000,000)
+Trial Number:           (655,420,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:22:07">
+  <log timestamp="2025-11-14 08:17:17">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702999014660, 152.500016059406192)
+Average:                (12.387705091066934, 152.500009611769372)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,900,000,000)
+Trial Number:           (655,430,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:24:06">
+  <log timestamp="2025-11-14 08:19:17">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703013686886, 152.500016047557096)
+Average:                (12.387705107788660, 152.500009650360056)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,910,000,000)
+Trial Number:           (655,440,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:26:04">
+  <log timestamp="2025-11-14 08:21:19">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703023181547, 152.500016002291630)
+Average:                (12.387705087701580, 152.500009647614604)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,920,000,000)
+Trial Number:           (655,450,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:28:04">
+  <log timestamp="2025-11-14 08:23:20">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703014213349, 152.500015932262073)
+Average:                (12.387705072500228, 152.500009609384250)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,930,000,000)
+Trial Number:           (655,460,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:30:04">
+  <log timestamp="2025-11-14 08:25:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702980856867, 152.500016000699532)
+Average:                (12.387705084417288, 152.500009577190411)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,940,000,000)
+Trial Number:           (655,470,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:32:03">
+  <log timestamp="2025-11-14 08:27:22">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702970587252, 152.500016078539744)
+Average:                (12.387705069298834, 152.500009542224007)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,950,000,000)
+Trial Number:           (655,480,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:34:03">
+  <log timestamp="2025-11-14 08:29:22">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702986809781, 152.500016075667958)
+Average:                (12.387705052643060, 152.500009492048690)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,960,000,000)
+Trial Number:           (655,490,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:36:03">
+  <log timestamp="2025-11-14 08:31:23">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702977184260, 152.500016174512496)
+Average:                (12.387705053722350, 152.500009463144153)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,970,000,000)
+Trial Number:           (655,500,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:38:03">
+  <log timestamp="2025-11-14 08:33:25">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702967978404, 152.500016220267923)
+Average:                (12.387705012809873, 152.500009492505086)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,980,000,000)
+Trial Number:           (655,510,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:40:03">
+  <log timestamp="2025-11-14 08:35:26">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702986116626, 152.500016128699968)
+Average:                (12.387705014800463, 152.500009539368733)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (538,990,000,000)
+Trial Number:           (655,520,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:42:03">
+  <log timestamp="2025-11-14 08:37:27">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702996293136, 152.500016136701305)
+Average:                (12.387705018408006, 152.500009604814437)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,000,000,000)
+Trial Number:           (655,530,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:44:02">
+  <log timestamp="2025-11-14 08:39:29">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703008077771, 152.500016277510611)
+Average:                (12.387705026951826, 152.500009583029254)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,010,000,000)
+Trial Number:           (655,540,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:46:03">
+  <log timestamp="2025-11-14 08:41:30">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703047857222, 152.500016285709250)
+Average:                (12.387705051178401, 152.500009558649992)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,020,000,000)
+Trial Number:           (655,550,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:48:03">
+  <log timestamp="2025-11-14 08:43:32">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703051963713, 152.500016270643556)
+Average:                (12.387705062465677, 152.500009570628151)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,030,000,000)
+Trial Number:           (655,560,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:50:03">
+  <log timestamp="2025-11-14 08:45:34">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703061281167, 152.500016295415918)
+Average:                (12.387705072308067, 152.500009512854461)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,040,000,000)
+Trial Number:           (655,570,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:52:04">
+  <log timestamp="2025-11-14 08:47:35">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703070577869, 152.500016265967901)
+Average:                (12.387705081344764, 152.500009497968222)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,050,000,000)
+Trial Number:           (655,580,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:54:04">
+  <log timestamp="2025-11-14 08:49:36">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703084482247, 152.500016232078053)
+Average:                (12.387705097905704, 152.500009487354902)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,060,000,000)
+Trial Number:           (655,590,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:56:04">
+  <log timestamp="2025-11-14 08:51:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703077171796, 152.500016274326157)
+Average:                (12.387705102605247, 152.500009443244352)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,070,000,000)
+Trial Number:           (655,600,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 08:58:04">
+  <log timestamp="2025-11-14 08:53:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703094570378, 152.500016224758838)
+Average:                (12.387705097541222, 152.500009414877752)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,080,000,000)
+Trial Number:           (655,610,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:00:04">
+  <log timestamp="2025-11-14 08:55:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703098595782, 152.500016237290623)
+Average:                (12.387705089138525, 152.500009341115287)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,090,000,000)
+Trial Number:           (655,620,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:02:04">
+  <log timestamp="2025-11-14 08:57:42">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703076837321, 152.500016191758476)
+Average:                (12.387705097138630, 152.500009344947614)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,100,000,000)
+Trial Number:           (655,630,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:04:04">
+  <log timestamp="2025-11-14 08:59:43">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703061169335, 152.500016283984706)
+Average:                (12.387705119873711, 152.500009325364516)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,110,000,000)
+Trial Number:           (655,640,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:06:04">
+  <log timestamp="2025-11-14 09:01:44">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703080911486, 152.500016247850198)
+Average:                (12.387705135305422, 152.500009246361628)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,120,000,000)
+Trial Number:           (655,650,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:08:05">
+  <log timestamp="2025-11-14 09:03:46">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703059963274, 152.500016249709716)
+Average:                (12.387705141847910, 152.500009274444068)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,130,000,000)
+Trial Number:           (655,660,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:10:05">
+  <log timestamp="2025-11-14 09:05:47">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703007478576, 152.500016293662128)
+Average:                (12.387705154187319, 152.500009258122219)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,140,000,000)
+Trial Number:           (655,670,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:12:05">
+  <log timestamp="2025-11-14 09:07:49">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702996835760, 152.500016149329497)
+Average:                (12.387705160581381, 152.500009233127429)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,150,000,000)
+Trial Number:           (655,680,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:14:05">
+  <log timestamp="2025-11-14 09:09:50">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702985755620, 152.500016111119152)
+Average:                (12.387705150475073, 152.500009246242882)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,160,000,000)
+Trial Number:           (655,690,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:16:05">
+  <log timestamp="2025-11-14 09:11:51">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702989305785, 152.500016046888732)
+Average:                (12.387705160536830, 152.500009247277717)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,170,000,000)
+Trial Number:           (655,700,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:18:05">
+  <log timestamp="2025-11-14 09:13:53">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703023276085, 152.500016063672604)
+Average:                (12.387705168429640, 152.500009236055575)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,180,000,000)
+Trial Number:           (655,710,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:20:05">
+  <log timestamp="2025-11-14 09:15:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703020145032, 152.500016041703304)
+Average:                (12.387705159107545, 152.500009179515644)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,190,000,000)
+Trial Number:           (655,720,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:22:05">
+  <log timestamp="2025-11-14 09:17:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703037861646, 152.500015995467351)
+Average:                (12.387705147919114, 152.500009132429511)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,200,000,000)
+Trial Number:           (655,730,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:24:06">
+  <log timestamp="2025-11-14 09:19:56">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703021655756, 152.500015998679544)
+Average:                (12.387705142001403, 152.500009124756758)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,210,000,000)
+Trial Number:           (655,740,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:26:01">
+  <log timestamp="2025-11-14 09:21:58">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703014691592, 152.500015970338637)
+Average:                (12.387705136879909, 152.500009180452906)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,220,000,000)
+Trial Number:           (655,750,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:28:00">
+  <log timestamp="2025-11-14 09:24:00">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703021291472, 152.500016078944043)
+Average:                (12.387705136873246, 152.500009150118956)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,230,000,000)
+Trial Number:           (655,760,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:29:54">
+  <log timestamp="2025-11-14 09:26:05">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703032241674, 152.500016069538617)
+Average:                (12.387705153434894, 152.500009159508664)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,240,000,000)
+Trial Number:           (655,770,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:31:50">
+  <log timestamp="2025-11-14 09:28:13">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703044402411, 152.500016046347696)
+Average:                (12.387705168789838, 152.500009182975987)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,250,000,000)
+Trial Number:           (655,780,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:33:47">
+  <log timestamp="2025-11-14 09:30:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703035148165, 152.500015978216453)
+Average:                (12.387705198598637, 152.500009164519128)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,260,000,000)
+Trial Number:           (655,790,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:35:45">
+  <log timestamp="2025-11-14 09:32:28">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703061043633, 152.500015992684553)
+Average:                (12.387705188501068, 152.500009100021344)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,270,000,000)
+Trial Number:           (655,800,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:37:45">
+  <log timestamp="2025-11-14 09:34:34">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703081623647, 152.500015979728516)
+Average:                (12.387705178638630, 152.500009154349584)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,280,000,000)
+Trial Number:           (655,810,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:39:45">
+  <log timestamp="2025-11-14 09:36:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703045584008, 152.500015930447432)
+Average:                (12.387705198220548, 152.500009166402378)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,290,000,000)
+Trial Number:           (655,820,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:41:45">
+  <log timestamp="2025-11-14 09:38:49">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703062423512, 152.500016049011691)
+Average:                (12.387705202708020, 152.500009222777237)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,300,000,000)
+Trial Number:           (655,830,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:43:45">
+  <log timestamp="2025-11-14 09:40:58">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703042984555, 152.500016107261132)
+Average:                (12.387705200573311, 152.500009157174020)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,310,000,000)
+Trial Number:           (655,840,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:45:44">
+  <log timestamp="2025-11-14 09:43:06">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703065768005, 152.500016051805972)
+Average:                (12.387705189732408, 152.500009145005720)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,320,000,000)
+Trial Number:           (655,850,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:47:45">
+  <log timestamp="2025-11-14 09:45:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703075727291, 152.500015929681268)
+Average:                (12.387705210776691, 152.500009175107493)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,330,000,000)
+Trial Number:           (655,860,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:49:45">
+  <log timestamp="2025-11-14 09:47:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703110329291, 152.500015845272003)
+Average:                (12.387705212357632, 152.500009178376814)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,340,000,000)
+Trial Number:           (655,870,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:51:45">
+  <log timestamp="2025-11-14 09:49:24">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703092822843, 152.500015795121897)
+Average:                (12.387705221420077, 152.500009206781726)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,350,000,000)
+Trial Number:           (655,880,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:53:46">
+  <log timestamp="2025-11-14 09:51:24">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703104918792, 152.500015768966932)
+Average:                (12.387705245925384, 152.500009261953977)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,360,000,000)
+Trial Number:           (655,890,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:55:45">
+  <log timestamp="2025-11-14 09:53:26">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703093242116, 152.500015833724518)
+Average:                (12.387705253082787, 152.500009340510758)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,370,000,000)
+Trial Number:           (655,900,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:57:44">
+  <log timestamp="2025-11-14 09:55:28">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703113524788, 152.500015718682562)
+Average:                (12.387705249332988, 152.500009395314919)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,380,000,000)
+Trial Number:           (655,910,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 09:59:45">
+  <log timestamp="2025-11-14 09:57:31">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703103222158, 152.500015722497636)
+Average:                (12.387705263065618, 152.500009403812953)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,390,000,000)
+Trial Number:           (655,920,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:01:43">
+  <log timestamp="2025-11-14 09:59:33">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703105352243, 152.500015782343354)
+Average:                (12.387705251115211, 152.500009415309563)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,400,000,000)
+Trial Number:           (655,930,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:03:41">
+  <log timestamp="2025-11-14 10:01:35">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703109586401, 152.500015770167408)
+Average:                (12.387705231710218, 152.500009430934227)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,410,000,000)
+Trial Number:           (655,940,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:05:40">
+  <log timestamp="2025-11-14 10:03:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703075848133, 152.500015764647202)
+Average:                (12.387705251423126, 152.500009359202693)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,420,000,000)
+Trial Number:           (655,950,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:07:37">
+  <log timestamp="2025-11-14 10:05:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703078471720, 152.500015790538157)
+Average:                (12.387705233369413, 152.500009393350211)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,430,000,000)
+Trial Number:           (655,960,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:09:33">
+  <log timestamp="2025-11-14 10:07:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703075971377, 152.500015703920724)
+Average:                (12.387705237942283, 152.500009375023239)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,440,000,000)
+Trial Number:           (655,970,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:11:30">
+  <log timestamp="2025-11-14 10:09:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703067212902, 152.500015587541014)
+Average:                (12.387705224717218, 152.500009366081287)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,450,000,000)
+Trial Number:           (655,980,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:13:25">
+  <log timestamp="2025-11-14 10:11:43">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703071441813, 152.500015643599141)
+Average:                (12.387705206126618, 152.500009325558324)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,460,000,000)
+Trial Number:           (655,990,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:15:21">
+  <log timestamp="2025-11-14 10:13:44">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703075948616, 152.500015609396257)
+Average:                (12.387705195464939, 152.500009362092982)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,470,000,000)
+Trial Number:           (656,000,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:17:18">
+  <log timestamp="2025-11-14 10:15:45">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703066527026, 152.500015694394591)
+Average:                (12.387705204868828, 152.500009361904546)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,480,000,000)
+Trial Number:           (656,010,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:19:14">
+  <log timestamp="2025-11-14 10:17:48">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703079625201, 152.500015741505877)
+Average:                (12.387705208879302, 152.500009431785628)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,490,000,000)
+Trial Number:           (656,020,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:21:11">
+  <log timestamp="2025-11-14 10:19:50">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703094648749, 152.500015710873043)
+Average:                (12.387705202554761, 152.500009492203105)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,500,000,000)
+Trial Number:           (656,030,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:23:07">
+  <log timestamp="2025-11-14 10:21:49">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703073870735, 152.500015667170203)
+Average:                (12.387705205155173, 152.500009507772404)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,510,000,000)
+Trial Number:           (656,040,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:25:03">
+  <log timestamp="2025-11-14 10:23:51">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703081848681, 152.500015555845948)
+Average:                (12.387705218721134, 152.500009560323150)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,520,000,000)
+Trial Number:           (656,050,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:27:00">
+  <log timestamp="2025-11-14 10:25:53">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703069879340, 152.500015571019219)
+Average:                (12.387705215814103, 152.500009543560054)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,530,000,000)
+Trial Number:           (656,060,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:28:56">
+  <log timestamp="2025-11-14 10:27:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703082889129, 152.500015630880000)
+Average:                (12.387705215754416, 152.500009525431750)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,540,000,000)
+Trial Number:           (656,070,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:30:52">
+  <log timestamp="2025-11-14 10:29:57">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703102183300, 152.500015526396083)
+Average:                (12.387705237423789, 152.500009517404891)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,550,000,000)
+Trial Number:           (656,080,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:32:49">
+  <log timestamp="2025-11-14 10:31:59">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703101115724, 152.500015531837050)
+Average:                (12.387705233361277, 152.500009559949092)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,560,000,000)
+Trial Number:           (656,090,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:34:43">
+  <log timestamp="2025-11-14 10:34:01">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703106312435, 152.500015463760036)
+Average:                (12.387705220605090, 152.500009477392155)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,570,000,000)
+Trial Number:           (656,100,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:36:40">
+  <log timestamp="2025-11-14 10:36:02">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703089528893, 152.500015398988097)
+Average:                (12.387705208745485, 152.500009558336245)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,580,000,000)
+Trial Number:           (656,110,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:38:38">
+  <log timestamp="2025-11-14 10:38:05">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703082399600, 152.500015309314477)
+Average:                (12.387705223020179, 152.500009604625689)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,590,000,000)
+Trial Number:           (656,120,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:40:36">
+  <log timestamp="2025-11-14 10:40:06">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703074592290, 152.500015279907331)
+Average:                (12.387705208838188, 152.500009560032311)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,600,000,000)
+Trial Number:           (656,130,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:42:34">
+  <log timestamp="2025-11-14 10:42:09">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703152810364, 152.500015347797472)
+Average:                (12.387705232525072, 152.500009584987964)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,610,000,000)
+Trial Number:           (656,140,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:44:32">
+  <log timestamp="2025-11-14 10:44:11">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703152220080, 152.500015401236055)
+Average:                (12.387705248519394, 152.500009605312812)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,620,000,000)
+Trial Number:           (656,150,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:46:30">
+  <log timestamp="2025-11-14 10:46:13">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703180542223, 152.500015436393454)
+Average:                (12.387705251135394, 152.500009560677285)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,630,000,000)
+Trial Number:           (656,160,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:48:29">
+  <log timestamp="2025-11-14 10:48:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703171584761, 152.500015503926704)
+Average:                (12.387705231347059, 152.500009577511918)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,640,000,000)
+Trial Number:           (656,170,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:50:30">
+  <log timestamp="2025-11-14 10:50:17">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703185505421, 152.500015522186601)
+Average:                (12.387705220701637, 152.500009573731290)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,650,000,000)
+Trial Number:           (656,180,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:52:31">
+  <log timestamp="2025-11-14 10:52:19">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703164082941, 152.500015451111807)
+Average:                (12.387705240136240, 152.500009540530954)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,660,000,000)
+Trial Number:           (656,190,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:54:30">
+  <log timestamp="2025-11-14 10:54:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703165766116, 152.500015468945833)
+Average:                (12.387705228558366, 152.500009473844869)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,670,000,000)
+Trial Number:           (656,200,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:56:31">
+  <log timestamp="2025-11-14 10:56:23">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703138041061, 152.500015480418028)
+Average:                (12.387705256145136, 152.500009476824488)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,680,000,000)
+Trial Number:           (656,210,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 10:58:30">
+  <log timestamp="2025-11-14 10:58:25">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703129937556, 152.500015547762615)
+Average:                (12.387705271480600, 152.500009591711631)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,690,000,000)
+Trial Number:           (656,220,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:00:29">
+  <log timestamp="2025-11-14 11:00:27">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703088471373, 152.500015464030014)
+Average:                (12.387705261454064, 152.500009603296093)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,700,000,000)
+Trial Number:           (656,230,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:02:29">
+  <log timestamp="2025-11-14 11:02:29">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703070993682, 152.500015561084666)
+Average:                (12.387705272961112, 152.500009583542607)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,710,000,000)
+Trial Number:           (656,240,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:04:28">
+  <log timestamp="2025-11-14 11:04:31">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703078068258, 152.500015626326615)
+Average:                (12.387705271859810, 152.500009529587800)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,720,000,000)
+Trial Number:           (656,250,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:06:28">
+  <log timestamp="2025-11-14 11:06:32">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703106266096, 152.500015613595679)
+Average:                (12.387705281609422, 152.500009509115301)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,730,000,000)
+Trial Number:           (656,260,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:08:26">
+  <log timestamp="2025-11-14 11:08:34">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703079984808, 152.500015701622999)
+Average:                (12.387705302288692, 152.500009518524394)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,740,000,000)
+Trial Number:           (656,270,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:10:25">
+  <log timestamp="2025-11-14 11:10:36">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703075805465, 152.500015649932379)
+Average:                (12.387705316875419, 152.500009595201732)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,750,000,000)
+Trial Number:           (656,280,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:12:26">
+  <log timestamp="2025-11-14 11:12:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703046717059, 152.500015708255518)
+Average:                (12.387705317897575, 152.500009601502398)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,760,000,000)
+Trial Number:           (656,290,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:14:26">
+  <log timestamp="2025-11-14 11:14:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703059297479, 152.500015680321241)
+Average:                (12.387705318689624, 152.500009650397686)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,770,000,000)
+Trial Number:           (656,300,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:16:24">
+  <log timestamp="2025-11-14 11:16:43">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703046020601, 152.500015693180558)
+Average:                (12.387705309055173, 152.500009664384208)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,780,000,000)
+Trial Number:           (656,310,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:18:23">
+  <log timestamp="2025-11-14 11:18:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703037647974, 152.500015662000038)
+Average:                (12.387705303260605, 152.500009664011458)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,790,000,000)
+Trial Number:           (656,320,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:20:23">
+  <log timestamp="2025-11-14 11:20:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703036239348, 152.500015729510920)
+Average:                (12.387705316403334, 152.500009601814639)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,800,000,000)
+Trial Number:           (656,330,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:22:24">
+  <log timestamp="2025-11-14 11:22:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703062494211, 152.500015603491960)
+Average:                (12.387705295267697, 152.500009594809086)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,810,000,000)
+Trial Number:           (656,340,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:24:22">
+  <log timestamp="2025-11-14 11:24:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703006231707, 152.500015594929778)
+Average:                (12.387705295430791, 152.500009640601803)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,820,000,000)
+Trial Number:           (656,350,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:26:22">
+  <log timestamp="2025-11-14 11:26:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703002593408, 152.500015569916457)
+Average:                (12.387705290765739, 152.500009668223242)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,830,000,000)
+Trial Number:           (656,360,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:28:22">
+  <log timestamp="2025-11-14 11:28:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702993368405, 152.500015563344704)
+Average:                (12.387705292435669, 152.500009635854781)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,840,000,000)
+Trial Number:           (656,370,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:30:23">
+  <log timestamp="2025-11-14 11:30:42">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702999899972, 152.500015648474573)
+Average:                (12.387705290193180, 152.500009707261029)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,850,000,000)
+Trial Number:           (656,380,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:32:23">
+  <log timestamp="2025-11-14 11:32:43">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702983106731, 152.500015665874486)
+Average:                (12.387705295545331, 152.500009688144246)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,860,000,000)
+Trial Number:           (656,390,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:34:24">
+  <log timestamp="2025-11-14 11:34:44">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387703000887251, 152.500015594104127)
+Average:                (12.387705283817795, 152.500009766910409)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,870,000,000)
+Trial Number:           (656,400,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:36:24">
+  <log timestamp="2025-11-14 11:36:45">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702977698748, 152.500015681325493)
+Average:                (12.387705251988848, 152.500009761431130)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,880,000,000)
+Trial Number:           (656,410,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:38:25">
+  <log timestamp="2025-11-14 11:38:47">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702966319065, 152.500015644909155)
+Average:                (12.387705291240364, 152.500009756687803)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,890,000,000)
+Trial Number:           (656,420,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:40:26">
+  <log timestamp="2025-11-14 11:40:48">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702973278385, 152.500015789335066)
+Average:                (12.387705276582423, 152.500009829380133)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,900,000,000)
+Trial Number:           (656,430,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:42:26">
+  <log timestamp="2025-11-14 11:42:50">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702965594265, 152.500015794306449)
+Average:                (12.387705244834258, 152.500009801275070)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,910,000,000)
+Trial Number:           (656,440,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:44:26">
+  <log timestamp="2025-11-14 11:44:52">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702952137353, 152.500015844993698)
+Average:                (12.387705262681088, 152.500009809799678)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,920,000,000)
+Trial Number:           (656,450,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:46:24">
+  <log timestamp="2025-11-14 11:46:53">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702986072268, 152.500015876937738)
+Average:                (12.387705234577888, 152.500009829215799)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,930,000,000)
+Trial Number:           (656,460,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:48:25">
+  <log timestamp="2025-11-14 11:48:54">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702979090269, 152.500015874050831)
+Average:                (12.387705235087665, 152.500009884779189)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,940,000,000)
+Trial Number:           (656,470,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:50:26">
+  <log timestamp="2025-11-14 11:50:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702931677007, 152.500016030024995)
+Average:                (12.387705230639167, 152.500009863916659)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,950,000,000)
+Trial Number:           (656,480,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:52:27">
+  <log timestamp="2025-11-14 11:52:56">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702899225868, 152.500016021659007)
+Average:                (12.387705229144389, 152.500009849094425)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,960,000,000)
+Trial Number:           (656,490,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:54:27">
+  <log timestamp="2025-11-14 11:54:58">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702912776636, 152.500015972478110)
+Average:                (12.387705246007616, 152.500009860263532)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,970,000,000)
+Trial Number:           (656,500,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:56:28">
+  <log timestamp="2025-11-14 11:56:58">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702935712435, 152.500015975330570)
+Average:                (12.387705235117515, 152.500009908141550)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,980,000,000)
+Trial Number:           (656,510,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 11:58:28">
+  <log timestamp="2025-11-14 11:58:59">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702921883738, 152.500016033474708)
+Average:                (12.387705205815513, 152.500009908712599)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (539,990,000,000)
+Trial Number:           (656,520,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:00:25">
+  <log timestamp="2025-11-14 12:00:56">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702934198147, 152.500016011290739)
+Average:                (12.387705209117634, 152.500010026528884)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,000,000,000)
+Trial Number:           (656,530,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:02:25">
+  <log timestamp="2025-11-14 12:02:57">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702933843817, 152.500016028184660)
+Average:                (12.387705227520030, 152.500009947849321)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,010,000,000)
+Trial Number:           (656,540,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:04:27">
+  <log timestamp="2025-11-14 12:04:59">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702920721456, 152.500016064595769)
+Average:                (12.387705222956363, 152.500009981812497)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,020,000,000)
+Trial Number:           (656,550,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:06:26">
+  <log timestamp="2025-11-14 12:06:56">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702910849397, 152.500016090348680)
+Average:                (12.387705245700317, 152.500010006004032)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,030,000,000)
+Trial Number:           (656,560,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:08:27">
+  <log timestamp="2025-11-14 12:08:58">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702897864973, 152.500016043302338)
+Average:                (12.387705253691152, 152.500010051542091)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,040,000,000)
+Trial Number:           (656,570,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:10:27">
+  <log timestamp="2025-11-14 12:10:59">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702876211462, 152.500016114600498)
+Average:                (12.387705267087027, 152.500010073043654)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,050,000,000)
+Trial Number:           (656,580,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:12:26">
+  <log timestamp="2025-11-14 12:13:00">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702870131097, 152.500016139973326)
+Average:                (12.387705304835590, 152.500009966883454)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,060,000,000)
+Trial Number:           (656,590,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:14:24">
+  <log timestamp="2025-11-14 12:15:01">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702898179866, 152.500016245799628)
+Average:                (12.387705281204690, 152.500009857296675)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,070,000,000)
+Trial Number:           (656,600,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:16:24">
+  <log timestamp="2025-11-14 12:17:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702876190565, 152.500016249598218)
+Average:                (12.387705275742070, 152.500009843561628)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,080,000,000)
+Trial Number:           (656,610,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:18:25">
+  <log timestamp="2025-11-14 12:19:04">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702877429687, 152.500016215556656)
+Average:                (12.387705298661325, 152.500009881773337)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,090,000,000)
+Trial Number:           (656,620,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:20:26">
+  <log timestamp="2025-11-14 12:21:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702882627291, 152.500016167554151)
+Average:                (12.387705290056806, 152.500009811185890)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,100,000,000)
+Trial Number:           (656,630,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:22:28">
+  <log timestamp="2025-11-14 12:23:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702849626928, 152.500016041360084)
+Average:                (12.387705292021504, 152.500009801772649)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,110,000,000)
+Trial Number:           (656,640,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:24:27">
+  <log timestamp="2025-11-14 12:25:04">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702861973265, 152.500016079850781)
+Average:                (12.387705322759460, 152.500009822655898)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,120,000,000)
+Trial Number:           (656,650,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:26:28">
+  <log timestamp="2025-11-14 12:27:06">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702856340141, 152.500016127908083)
+Average:                (12.387705327996223, 152.500009868959580)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,130,000,000)
+Trial Number:           (656,660,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:28:28">
+  <log timestamp="2025-11-14 12:29:08">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702861428519, 152.500016190035922)
+Average:                (12.387705332640444, 152.500009877926516)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,140,000,000)
+Trial Number:           (656,670,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:30:27">
+  <log timestamp="2025-11-14 12:31:09">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702864348793, 152.500016274464514)
+Average:                (12.387705330657246, 152.500009894633621)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,150,000,000)
+Trial Number:           (656,680,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:32:29">
+  <log timestamp="2025-11-14 12:33:11">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702851767994, 152.500016324548284)
+Average:                (12.387705326597024, 152.500009879245908)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,160,000,000)
+Trial Number:           (656,690,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:34:29">
+  <log timestamp="2025-11-14 12:35:12">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702849277080, 152.500016280402463)
+Average:                (12.387705347045836, 152.500009877400629)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,170,000,000)
+Trial Number:           (656,700,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:36:30">
+  <log timestamp="2025-11-14 12:37:14">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702833420342, 152.500016308302776)
+Average:                (12.387705359947313, 152.500009867242767)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,180,000,000)
+Trial Number:           (656,710,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:38:31">
+  <log timestamp="2025-11-14 12:39:16">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702828836151, 152.500016336531587)
+Average:                (12.387705360147399, 152.500009847161664)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,190,000,000)
+Trial Number:           (656,720,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:40:31">
+  <log timestamp="2025-11-14 12:41:17">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702837121436, 152.500016229104034)
+Average:                (12.387705358281181, 152.500009827565350)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,200,000,000)
+Trial Number:           (656,730,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:42:31">
+  <log timestamp="2025-11-14 12:43:19">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702848368226, 152.500016188062062)
+Average:                (12.387705363466516, 152.500009873242078)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,210,000,000)
+Trial Number:           (656,740,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:44:31">
+  <log timestamp="2025-11-14 12:45:19">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702805684722, 152.500016223192404)
+Average:                (12.387705390127142, 152.500009889502849)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,220,000,000)
+Trial Number:           (656,750,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:46:32">
+  <log timestamp="2025-11-14 12:47:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702855520796, 152.500016221324245)
+Average:                (12.387705369649492, 152.500009805112967)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,230,000,000)
+Trial Number:           (656,760,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:48:32">
+  <log timestamp="2025-11-14 12:49:22">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702878907522, 152.500016168508438)
+Average:                (12.387705363253499, 152.500009854713227)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,240,000,000)
+Trial Number:           (656,770,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:50:32">
+  <log timestamp="2025-11-14 12:51:22">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702880351689, 152.500016168161039)
+Average:                (12.387705356879016, 152.500009901123661)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,250,000,000)
+Trial Number:           (656,780,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:52:32">
+  <log timestamp="2025-11-14 12:53:23">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702868718765, 152.500016122291129)
+Average:                (12.387705363691591, 152.500009925355130)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,260,000,000)
+Trial Number:           (656,790,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:54:33">
+  <log timestamp="2025-11-14 12:55:24">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702879130805, 152.500016231513882)
+Average:                (12.387705348647991, 152.500009930837393)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,270,000,000)
+Trial Number:           (656,800,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:56:33">
+  <log timestamp="2025-11-14 12:57:26">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702916099061, 152.500016222795580)
+Average:                (12.387705388252311, 152.500009964629044)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,280,000,000)
+Trial Number:           (656,810,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 12:58:34">
+  <log timestamp="2025-11-14 12:59:27">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702904764108, 152.500016207490432)
+Average:                (12.387705395182850, 152.500010015727298)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,290,000,000)
+Trial Number:           (656,820,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:00:33">
+  <log timestamp="2025-11-14 13:01:28">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702899918564, 152.500016215337780)
+Average:                (12.387705384901725, 152.500009992163882)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,300,000,000)
+Trial Number:           (656,830,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:02:33">
+  <log timestamp="2025-11-14 13:03:30">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702894677130, 152.500016230317783)
+Average:                (12.387705427810426, 152.500009984292973)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,310,000,000)
+Trial Number:           (656,840,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:04:33">
+  <log timestamp="2025-11-14 13:05:30">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702870880219, 152.500016217578462)
+Average:                (12.387705424313008, 152.500010012130616)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,320,000,000)
+Trial Number:           (656,850,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:06:33">
+  <log timestamp="2025-11-14 13:07:30">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702861543872, 152.500016283397173)
+Average:                (12.387705413462534, 152.500010042974139)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,330,000,000)
+Trial Number:           (656,860,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:08:34">
+  <log timestamp="2025-11-14 13:09:32">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702836019914, 152.500016318714131)
+Average:                (12.387705387251664, 152.500010062324350)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,340,000,000)
+Trial Number:           (656,870,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:10:34">
+  <log timestamp="2025-11-14 13:11:35">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702872578885, 152.500016357286938)
+Average:                (12.387705380701194, 152.500010062437582)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,350,000,000)
+Trial Number:           (656,880,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:12:34">
+  <log timestamp="2025-11-14 13:13:37">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702864484789, 152.500016374257910)
+Average:                (12.387705381144483, 152.500010021752502)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,360,000,000)
+Trial Number:           (656,890,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:14:35">
+  <log timestamp="2025-11-14 13:15:37">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702837235597, 152.500016359892300)
+Average:                (12.387705380344039, 152.500009980278577)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,370,000,000)
+Trial Number:           (656,900,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:16:36">
+  <log timestamp="2025-11-14 13:17:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702811952700, 152.500016410057725)
+Average:                (12.387705350289995, 152.500009962448445)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,380,000,000)
+Trial Number:           (656,910,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:18:36">
+  <log timestamp="2025-11-14 13:19:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702815757139, 152.500016432243370)
+Average:                (12.387705337117152, 152.500009963593754)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,390,000,000)
+Trial Number:           (656,920,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:20:37">
+  <log timestamp="2025-11-14 13:21:40">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702849655810, 152.500016441234266)
+Average:                (12.387705324992009, 152.500009916590813)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,400,000,000)
+Trial Number:           (656,930,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:22:38">
+  <log timestamp="2025-11-14 13:23:42">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702855604079, 152.500016335715486)
+Average:                (12.387705281167230, 152.500009937431116)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,410,000,000)
+Trial Number:           (656,940,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:24:39">
+  <log timestamp="2025-11-14 13:25:44">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702855823248, 152.500016316291038)
+Average:                (12.387705273422634, 152.500009928312664)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,420,000,000)
+Trial Number:           (656,950,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:26:39">
+  <log timestamp="2025-11-14 13:27:45">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702844135225, 152.500016336548669)
+Average:                (12.387705242483561, 152.500009946075863)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,430,000,000)
+Trial Number:           (656,960,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:28:39">
+  <log timestamp="2025-11-14 13:29:47">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702850492191, 152.500016343486777)
+Average:                (12.387705250885125, 152.500010014783015)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,440,000,000)
+Trial Number:           (656,970,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:30:40">
+  <log timestamp="2025-11-14 13:31:48">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702854301045, 152.500016305771112)
+Average:                (12.387705213281988, 152.500009961099266)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,450,000,000)
+Trial Number:           (656,980,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:32:40">
+  <log timestamp="2025-11-14 13:33:49">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702871637124, 152.500016361479112)
+Average:                (12.387705209581577, 152.500009975504952)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,460,000,000)
+Trial Number:           (656,990,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:34:40">
+  <log timestamp="2025-11-14 13:35:51">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702860027384, 152.500016330867567)
+Average:                (12.387705195021310, 152.500009968942152)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,470,000,000)
+Trial Number:           (657,000,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:36:40">
+  <log timestamp="2025-11-14 13:37:52">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702890401124, 152.500016341093101)
+Average:                (12.387705200522062, 152.500009952930696)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,480,000,000)
+Trial Number:           (657,010,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:38:41">
+  <log timestamp="2025-11-14 13:39:54">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702880068087, 152.500016374974564)
+Average:                (12.387705215854920, 152.500010053963337)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,490,000,000)
+Trial Number:           (657,020,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:40:39">
+  <log timestamp="2025-11-14 13:41:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702876856615, 152.500016359074920)
+Average:                (12.387705241539960, 152.500010019101097)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,500,000,000)
+Trial Number:           (657,030,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:42:32">
+  <log timestamp="2025-11-14 13:43:57">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702859142292, 152.500016330952235)
+Average:                (12.387705215722026, 152.500009967202914)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,510,000,000)
+Trial Number:           (657,040,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:44:30">
+  <log timestamp="2025-11-14 13:45:59">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702862554576, 152.500016296934433)
+Average:                (12.387705205593182, 152.500010010763248)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,520,000,000)
+Trial Number:           (657,050,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:46:28">
+  <log timestamp="2025-11-14 13:48:00">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702878202875, 152.500016291495371)
+Average:                (12.387705168505159, 152.500009984954204)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,530,000,000)
+Trial Number:           (657,060,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:48:28">
+  <log timestamp="2025-11-14 13:50:01">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702916246717, 152.500016398519989)
+Average:                (12.387705161125908, 152.500009998602877)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,540,000,000)
+Trial Number:           (657,070,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:50:27">
+  <log timestamp="2025-11-14 13:52:02">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702947399870, 152.500016370278416)
+Average:                (12.387705154363243, 152.500010072135808)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,550,000,000)
+Trial Number:           (657,080,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:52:27">
+  <log timestamp="2025-11-14 13:54:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702953729466, 152.500016353509324)
+Average:                (12.387705180191450, 152.500010077022921)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,560,000,000)
+Trial Number:           (657,090,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:54:27">
+  <log timestamp="2025-11-14 13:56:04">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702943452283, 152.500016419660739)
+Average:                (12.387705206215188, 152.500010129169084)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,570,000,000)
+Trial Number:           (657,100,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:56:27">
+  <log timestamp="2025-11-14 13:58:05">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702960906804, 152.500016446181888)
+Average:                (12.387705193074218, 152.500010150789052)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,580,000,000)
+Trial Number:           (657,110,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 13:58:27">
+  <log timestamp="2025-11-14 14:00:06">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702934869310, 152.500016441758078)
+Average:                (12.387705172969929, 152.500010164382445)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,590,000,000)
+Trial Number:           (657,120,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:00:27">
+  <log timestamp="2025-11-14 14:02:07">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702972928228, 152.500016306213467)
+Average:                (12.387705153754965, 152.500010153799110)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,600,000,000)
+Trial Number:           (657,130,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:02:26">
+  <log timestamp="2025-11-14 14:04:09">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702956691514, 152.500016388157832)
+Average:                (12.387705168370514, 152.500010162988104)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,610,000,000)
+Trial Number:           (657,140,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:04:25">
+  <log timestamp="2025-11-14 14:06:08">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702927196552, 152.500016423151209)
+Average:                (12.387705161678459, 152.500010126534278)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,620,000,000)
+Trial Number:           (657,150,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:06:23">
+  <log timestamp="2025-11-14 14:08:07">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702911734458, 152.500016419164666)
+Average:                (12.387705174321322, 152.500010178906194)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,630,000,000)
+Trial Number:           (657,160,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:08:22">
+  <log timestamp="2025-11-14 14:10:08">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702928044540, 152.500016389340402)
+Average:                (12.387705155678136, 152.500010217703192)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,640,000,000)
+Trial Number:           (657,170,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:10:22">
+  <log timestamp="2025-11-14 14:12:10">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702913021363, 152.500016452686594)
+Average:                (12.387705148820720, 152.500010192895388)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,650,000,000)
+Trial Number:           (657,180,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:12:21">
+  <log timestamp="2025-11-14 14:14:11">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702890833426, 152.500016556371833)
+Average:                (12.387705151371749, 152.500010309599958)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,660,000,000)
+Trial Number:           (657,190,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:14:20">
+  <log timestamp="2025-11-14 14:16:13">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702912900661, 152.500016552950967)
+Average:                (12.387705140967743, 152.500010304660691)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,670,000,000)
+Trial Number:           (657,200,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:16:17">
+  <log timestamp="2025-11-14 14:18:14">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702907793889, 152.500016569442181)
+Average:                (12.387705143041037, 152.500010272112405)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,680,000,000)
+Trial Number:           (657,210,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:18:15">
+  <log timestamp="2025-11-14 14:20:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702919837615, 152.500016588825389)
+Average:                (12.387705159114148, 152.500010246182399)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,690,000,000)
+Trial Number:           (657,220,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:20:13">
+  <log timestamp="2025-11-14 14:22:13">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702875899759, 152.500016706112433)
+Average:                (12.387705136366264, 152.500010264254513)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,700,000,000)
+Trial Number:           (657,230,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:22:11">
+  <log timestamp="2025-11-14 14:24:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702875728209, 152.500016734462093)
+Average:                (12.387705127262493, 152.500010301573241)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,710,000,000)
+Trial Number:           (657,240,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:24:10">
+  <log timestamp="2025-11-14 14:26:16">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702833557109, 152.500016706670749)
+Average:                (12.387705138682389, 152.500010318860404)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,720,000,000)
+Trial Number:           (657,250,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:26:09">
+  <log timestamp="2025-11-14 14:28:18">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702854034361, 152.500016722255111)
+Average:                (12.387705144566839, 152.500010329540828)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,730,000,000)
+Trial Number:           (657,260,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:28:10">
+  <log timestamp="2025-11-14 14:30:18">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702821113660, 152.500016602492877)
+Average:                (12.387705146490788, 152.500010405748014)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,740,000,000)
+Trial Number:           (657,270,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:30:10">
+  <log timestamp="2025-11-14 14:32:20">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702806380029, 152.500016604517810)
+Average:                (12.387705148977604, 152.500010362737328)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,750,000,000)
+Trial Number:           (657,280,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:32:10">
+  <log timestamp="2025-11-14 14:34:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702806128411, 152.500016591752342)
+Average:                (12.387705160869631, 152.500010384267227)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,760,000,000)
+Trial Number:           (657,290,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:34:11">
+  <log timestamp="2025-11-14 14:36:22">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702811574236, 152.500016531061277)
+Average:                (12.387705163228359, 152.500010414732998)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,770,000,000)
+Trial Number:           (657,300,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:36:12">
+  <log timestamp="2025-11-14 14:38:30">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702790546987, 152.500016615553449)
+Average:                (12.387705194911076, 152.500010403426074)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,780,000,000)
+Trial Number:           (657,310,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:38:14">
+  <log timestamp="2025-11-14 14:40:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702799918637, 152.500016573059781)
+Average:                (12.387705169577984, 152.500010445305179)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,790,000,000)
+Trial Number:           (657,320,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:40:14">
+  <log timestamp="2025-11-14 14:42:46">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702797671967, 152.500016487793999)
+Average:                (12.387705165102764, 152.500010403575061)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,800,000,000)
+Trial Number:           (657,330,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:42:14">
+  <log timestamp="2025-11-14 14:44:54">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702825637470, 152.500016450354110)
+Average:                (12.387705140096449, 152.500010377442408)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,810,000,000)
+Trial Number:           (657,340,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:44:15">
+  <log timestamp="2025-11-14 14:47:02">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702823941423, 152.500016336437255)
+Average:                (12.387705152317640, 152.500010343342211)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,820,000,000)
+Trial Number:           (657,350,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:46:16">
+  <log timestamp="2025-11-14 14:49:10">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702825662409, 152.500016394491809)
+Average:                (12.387705167733053, 152.500010348907750)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,830,000,000)
+Trial Number:           (657,360,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:48:16">
+  <log timestamp="2025-11-14 14:51:17">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702813048222, 152.500016398099262)
+Average:                (12.387705162991923, 152.500010359452062)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,840,000,000)
+Trial Number:           (657,370,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:50:17">
+  <log timestamp="2025-11-14 14:53:25">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702863705279, 152.500016330599976)
+Average:                (12.387705139543339, 152.500010367624498)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,850,000,000)
+Trial Number:           (657,380,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:52:18">
+  <log timestamp="2025-11-14 14:55:33">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702853424177, 152.500016401508702)
+Average:                (12.387705137289888, 152.500010423465511)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,860,000,000)
+Trial Number:           (657,390,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:54:18">
+  <log timestamp="2025-11-14 14:57:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702874570600, 152.500016357046974)
+Average:                (12.387705114850927, 152.500010442636153)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,870,000,000)
+Trial Number:           (657,400,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:56:19">
+  <log timestamp="2025-11-14 14:59:48">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702857827984, 152.500016335163082)
+Average:                (12.387705115565629, 152.500010491845273)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,880,000,000)
+Trial Number:           (657,410,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 14:58:20">
+  <log timestamp="2025-11-14 15:01:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702814063857, 152.500016357900876)
+Average:                (12.387705110200480, 152.500010511126817)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,890,000,000)
+Trial Number:           (657,420,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:00:19">
+  <log timestamp="2025-11-14 15:04:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702835180255, 152.500016348667032)
+Average:                (12.387705111473466, 152.500010523923464)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,900,000,000)
+Trial Number:           (657,430,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:02:20">
+  <log timestamp="2025-11-14 15:06:08">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702843070011, 152.500016297493119)
+Average:                (12.387705121366208, 152.500010515306343)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,910,000,000)
+Trial Number:           (657,440,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:04:20">
+  <log timestamp="2025-11-14 15:08:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702822149301, 152.500016339310804)
+Average:                (12.387705120521712, 152.500010510659365)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,920,000,000)
+Trial Number:           (657,450,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:06:20">
+  <log timestamp="2025-11-14 15:10:23">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702815027822, 152.500016274869211)
+Average:                (12.387705114667051, 152.500010534312366)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,930,000,000)
+Trial Number:           (657,460,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:08:22">
+  <log timestamp="2025-11-14 15:12:31">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702771577255, 152.500016294679625)
+Average:                (12.387705140424659, 152.500010571613927)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,940,000,000)
+Trial Number:           (657,470,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:10:23">
+  <log timestamp="2025-11-14 15:14:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702737114337, 152.500016261965072)
+Average:                (12.387705132005536, 152.500010539876484)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,950,000,000)
+Trial Number:           (657,480,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:12:23">
+  <log timestamp="2025-11-14 15:16:46">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702750805975, 152.500016224053525)
+Average:                (12.387705122874873, 152.500010487925294)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,960,000,000)
+Trial Number:           (657,490,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:14:24">
+  <log timestamp="2025-11-14 15:18:54">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702750684880, 152.500016221001175)
+Average:                (12.387705116477566, 152.500010515414459)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,970,000,000)
+Trial Number:           (657,500,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:16:25">
+  <log timestamp="2025-11-14 15:21:04">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702756578802, 152.500016224280017)
+Average:                (12.387705128265729, 152.500010520798156)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,980,000,000)
+Trial Number:           (657,510,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:18:25">
+  <log timestamp="2025-11-14 15:23:13">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702757215475, 152.500016284158676)
+Average:                (12.387705125492761, 152.500010466148552)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (540,990,000,000)
+Trial Number:           (657,520,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:20:26">
+  <log timestamp="2025-11-14 15:25:21">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702772905730, 152.500016288996306)
+Average:                (12.387705133726218, 152.500010434276760)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,000,000,000)
+Trial Number:           (657,530,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:22:26">
+  <log timestamp="2025-11-14 15:27:29">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702800670967, 152.500016409269705)
+Average:                (12.387705114228792, 152.500010484980379)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,010,000,000)
+Trial Number:           (657,540,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:24:27">
+  <log timestamp="2025-11-14 15:29:38">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702822219142, 152.500016315374666)
+Average:                (12.387705106203331, 152.500010469454793)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,020,000,000)
+Trial Number:           (657,550,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:26:28">
+  <log timestamp="2025-11-14 15:31:46">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702798484373, 152.500016372759376)
+Average:                (12.387705101718474, 152.500010478992039)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,030,000,000)
+Trial Number:           (657,560,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:28:29">
+  <log timestamp="2025-11-14 15:33:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702790769628, 152.500016308267419)
+Average:                (12.387705088202017, 152.500010473114656)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,040,000,000)
+Trial Number:           (657,570,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:30:29">
+  <log timestamp="2025-11-14 15:36:02">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702788795860, 152.500016407250712)
+Average:                (12.387705047443657, 152.500010446157120)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,050,000,000)
+Trial Number:           (657,580,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:32:30">
+  <log timestamp="2025-11-14 15:38:09">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702783072118, 152.500016360472046)
+Average:                (12.387705047750117, 152.500010399335451)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,060,000,000)
+Trial Number:           (657,590,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:34:30">
+  <log timestamp="2025-11-14 15:40:17">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702804838561, 152.500016362102883)
+Average:                (12.387705026852190, 152.500010411076630)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,070,000,000)
+Trial Number:           (657,600,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:36:29">
+  <log timestamp="2025-11-14 15:42:25">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702789260368, 152.500016458388785)
+Average:                (12.387705030335610, 152.500010478371678)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,080,000,000)
+Trial Number:           (657,610,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:38:31">
+  <log timestamp="2025-11-14 15:44:33">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702767589495, 152.500016395653205)
+Average:                (12.387705025342903, 152.500010485520505)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,090,000,000)
+Trial Number:           (657,620,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:40:31">
+  <log timestamp="2025-11-14 15:46:40">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702752295324, 152.500016367083731)
+Average:                (12.387705017214847, 152.500010456379727)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,100,000,000)
+Trial Number:           (657,630,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:42:31">
+  <log timestamp="2025-11-14 15:48:48">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702746079356, 152.500016285208176)
+Average:                (12.387704995625267, 152.500010495162996)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,110,000,000)
+Trial Number:           (657,640,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:44:31">
+  <log timestamp="2025-11-14 15:50:55">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702749122191, 152.500016316321705)
+Average:                (12.387704992287691, 152.500010508778217)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,120,000,000)
+Trial Number:           (657,650,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:46:32">
+  <log timestamp="2025-11-14 15:53:03">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702729578844, 152.500016430602642)
+Average:                (12.387704984604508, 152.500010510996560)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,130,000,000)
+Trial Number:           (657,660,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:48:32">
+  <log timestamp="2025-11-14 15:55:11">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702703714380, 152.500016473262008)
+Average:                (12.387704984253501, 152.500010512668979)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,140,000,000)
+Trial Number:           (657,670,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:50:33">
+  <log timestamp="2025-11-14 15:57:18">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702730222674, 152.500016460665250)
+Average:                (12.387704981560942, 152.500010431270539)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,150,000,000)
+Trial Number:           (657,680,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:52:33">
+  <log timestamp="2025-11-14 15:59:25">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702686079903, 152.500016435542165)
+Average:                (12.387704954861713, 152.500010434104212)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,160,000,000)
+Trial Number:           (657,690,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:54:34">
+  <log timestamp="2025-11-14 16:01:32">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702689670528, 152.500016335162712)
+Average:                (12.387704983095636, 152.500010427649386)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,170,000,000)
+Trial Number:           (657,700,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:56:34">
+  <log timestamp="2025-11-14 16:03:40">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702693968736, 152.500016294946221)
+Average:                (12.387705006045218, 152.500010485955812)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,180,000,000)
+Trial Number:           (657,710,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 15:58:34">
+  <log timestamp="2025-11-14 16:05:47">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702656444132, 152.500016231561915)
+Average:                (12.387705029863772, 152.500010476762156)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,190,000,000)
+Trial Number:           (657,720,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:00:35">
+  <log timestamp="2025-11-14 16:07:52">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702687374354, 152.500016283157805)
+Average:                (12.387705023964241, 152.500010510636571)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,200,000,000)
+Trial Number:           (657,730,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:02:34">
+  <log timestamp="2025-11-14 16:09:59">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702656390310, 152.500016201786735)
+Average:                (12.387705025447746, 152.500010582558446)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,210,000,000)
+Trial Number:           (657,740,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:04:35">
+  <log timestamp="2025-11-14 16:12:07">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702654223791, 152.500016182389800)
+Average:                (12.387705008442417, 152.500010576892436)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,220,000,000)
+Trial Number:           (657,750,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:06:35">
+  <log timestamp="2025-11-14 16:14:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702667972951, 152.500016200186622)
+Average:                (12.387704985893031, 152.500010562480242)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,230,000,000)
+Trial Number:           (657,760,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:08:36">
+  <log timestamp="2025-11-14 16:16:23">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702641728254, 152.500016207310978)
+Average:                (12.387704971897472, 152.500010542672982)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,240,000,000)
+Trial Number:           (657,770,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:10:36">
+  <log timestamp="2025-11-14 16:18:31">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702677583372, 152.500016165810621)
+Average:                (12.387704973079146, 152.500010575034196)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,250,000,000)
+Trial Number:           (657,780,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:12:36">
+  <log timestamp="2025-11-14 16:20:37">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702684512064, 152.500016200504376)
+Average:                (12.387704965446419, 152.500010565647102)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,260,000,000)
+Trial Number:           (657,790,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:14:36">
+  <log timestamp="2025-11-14 16:22:42">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702693483844, 152.500016245821854)
+Average:                (12.387704968159015, 152.500010602155669)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,270,000,000)
+Trial Number:           (657,800,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:16:36">
+  <log timestamp="2025-11-14 16:24:54">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702686208616, 152.500016196548927)
+Average:                (12.387704951259483, 152.500010614400821)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,280,000,000)
+Trial Number:           (657,810,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:18:36">
+  <log timestamp="2025-11-14 16:26:11">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702665722626, 152.500016176101525)
+Average:                (12.387704945402998, 152.500010601742105)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,290,000,000)
+Trial Number:           (657,820,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:20:37">
+  <log timestamp="2025-11-14 16:27:39">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702680644745, 152.500016109643440)
+Average:                (12.387704959322317, 152.500010623747784)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,300,000,000)
+Trial Number:           (657,830,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:22:37">
+  <log timestamp="2025-11-14 16:28:58">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702658755611, 152.500016056599719)
+Average:                (12.387704961407030, 152.500010611703459)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,310,000,000)
+Trial Number:           (657,840,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:24:37">
+  <log timestamp="2025-11-14 16:30:19">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702682413360, 152.500016032479863)
+Average:                (12.387704957941780, 152.500010579650365)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,320,000,000)
+Trial Number:           (657,850,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:26:37">
+  <log timestamp="2025-11-14 16:31:46">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702691986403, 152.500016072678392)
+Average:                (12.387704969318699, 152.500010583342970)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,330,000,000)
+Trial Number:           (657,860,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:28:37">
+  <log timestamp="2025-11-14 16:33:12">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702687336979, 152.500016014028148)
+Average:                (12.387704933748308, 152.500010627370159)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,340,000,000)
+Trial Number:           (657,870,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:30:36">
+  <log timestamp="2025-11-14 16:34:41">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702692864137, 152.500015989448599)
+Average:                (12.387704931726150, 152.500010699129007)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,350,000,000)
+Trial Number:           (657,880,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:32:36">
+  <log timestamp="2025-11-14 16:36:04">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702671486625, 152.500015973241460)
+Average:                (12.387704926115308, 152.500010694167713)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,360,000,000)
+Trial Number:           (657,890,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:34:36">
+  <log timestamp="2025-11-14 16:37:28">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702646735136, 152.500016001773275)
+Average:                (12.387704912044384, 152.500010708341705)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,370,000,000)
+Trial Number:           (657,900,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:36:36">
+  <log timestamp="2025-11-14 16:38:56">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702666661125, 152.500016058293625)
+Average:                (12.387704929736589, 152.500010725906293)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,380,000,000)
+Trial Number:           (657,910,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:38:38">
+  <log timestamp="2025-11-14 16:40:15">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702652559152, 152.500016095057163)
+Average:                (12.387704897137949, 152.500010657959933)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,390,000,000)
+Trial Number:           (657,920,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:40:38">
+  <log timestamp="2025-11-14 16:41:34">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702629850388, 152.500016067547108)
+Average:                (12.387704905506665, 152.500010635847275)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,400,000,000)
+Trial Number:           (657,930,000,000)
 </message>
   </log>
-  <log timestamp="2025-10-02 16:42:38">
+  <log timestamp="2025-11-14 16:43:26">
     <message>Theoretical:            (12.387706855792227, 152.5)
 Goal:                   (42, 211)
-Average:                (12.387702655769194, 152.500016169389198)
+Average:                (12.387704898197404, 152.500010617255384)
 Best Complete Run:      (35, 185, 8,602,978,489)
 Most Ender Pearls Ever: (42, 160, 35,514,483,818)
 Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,410,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:44:38">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702673547338, 152.500016200184689)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,420,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:46:38">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702689618234, 152.500016248527061)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,430,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:48:39">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702720059471, 152.500016268114649)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,440,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:50:45">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702724393758, 152.500016281896762)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,450,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:52:45">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702755112104, 152.500016411020198)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,460,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:54:48">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702736685320, 152.500016427011644)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,470,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:56:50">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702733105563, 152.500016485484224)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,480,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 16:58:55">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702713928235, 152.500016493192845)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,490,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:00:54">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702706408126, 152.500016520195743)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,500,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:02:55">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702705831840, 152.500016544519951)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,510,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:04:55">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702706513148, 152.500016559770643)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,520,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:06:56">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702687884328, 152.500016552811474)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,530,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:08:56">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702688089522, 152.500016535397208)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,540,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:10:56">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702690961131, 152.500016497232025)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,550,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:12:56">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702683896521, 152.500016507469155)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,560,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:14:57">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702681457615, 152.500016555905972)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,570,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:16:57">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702728797223, 152.500016583367199)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,580,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:18:58">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702714959655, 152.500016597128820)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,590,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:20:58">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702683077917, 152.500016594931679)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,600,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:22:58">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702662277285, 152.500016620601542)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,610,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:24:59">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702644171190, 152.500016610396585)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,620,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:26:59">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702633146244, 152.500016549435969)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,630,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:28:59">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702644068016, 152.500016586278718)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,640,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:30:58">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702646319578, 152.500016524120753)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,650,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:32:59">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702640481114, 152.500016563497411)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,660,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:34:59">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702638257611, 152.500016516792499)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,670,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:37:00">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702614109806, 152.500016559540683)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,680,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:39:01">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702583603168, 152.500016533641002)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,690,000,000)
-</message>
-  </log>
-  <log timestamp="2025-10-02 17:41:01">
-    <message>Theoretical:            (12.387706855792227, 152.5)
-Goal:                   (42, 211)
-Average:                (12.387702603289643, 152.500016477282628)
-Best Complete Run:      (35, 185, 8,602,978,489)
-Most Ender Pearls Ever: (42, 160, 35,514,483,818)
-Most Blaze Rods Ever:   (13, 213, 98,834,595,237)
-Trial Number:           (541,700,000,000)
+Trial Number:           (657,940,000,000)
 </message>
   </log>
 </logs>
